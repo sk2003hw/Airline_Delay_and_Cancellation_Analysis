@@ -1,7 +1,8 @@
 # Airline Delay and Cancellation Analysis
 In the fast-paced world of air travel, airlines must handle delays and cancellations. The project explores a complex dataset from [Kaggle](https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018?select=2015.csv) with 28 features and 7.21M instances describing diverse aspects of flight information crucial in determining the performance and reliability of air transportation.
 
-## Contents of this repository
+## Contents of this repository 
+Please refer to the main branch only.  
 - `509_EDA.ipynb`: Exploratory Data Analysis notebook with preprocessing strategies.  
 - `Airline_Final.csv`: Final dataset after merging datasets and pre-processing.  
 - `Airline_Preprocessing.ipynb`: Notebook covering preprocessing for regression and classification tasks.  
