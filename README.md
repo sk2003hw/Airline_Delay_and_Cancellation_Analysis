@@ -12,7 +12,8 @@ Please refer to the main branch only.
 - `MATH 509_Project Presentation_Final.pptx`: PowerPoint presentation for the project.  
 - `MATH509 Proposal.pdf`: Initial proposal document for the MATH 509 project.  
 - `MATH509_Modelling.ipynb`: Notebook containing the modelling code.  
-- `README.md`: README file.  
+- `README.md`: README file.
+- `Weather_Data_Notebook.ipynb` : Python code used for scraping and using the weather data for the airports.
 - `airport_weather_dataset_Updated.csv`: Dataset containing airport weather information.   
 
 ## Data
